@@ -43,7 +43,7 @@
                                 </li>
                                 <li>
                                     <a href="#">
-                                        Locations
+                                        Vijayawada
                                     </a>
                                     <ul>
                                         <li>
